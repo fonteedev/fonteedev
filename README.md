@@ -1,21 +1,20 @@
 <p align="center">
   <a href="https://discord.com/users/1418955661311606886">
-    <img src="https://lanyard.cnrad.dev/api/1418955661311606886?theme=dark&bg=0d1117&borderRadius=20px" />
+    <img src="https://lanyard.cnrad.dev/api/1418955661311606886?theme=dark&bg=0d1117&borderRadius=20px" alt="Discord Status" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=909049&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=born+to+win" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=909049&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=born%20to%20win" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://discord.com/users/1418955661311606886">
-    <img src="https://img.shields.io/badge/discord-fonte-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord-fonte-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
   <a href="https://github.com/networkswapper">
-    <img src="https://img.shields.io/badge/github-portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" alt="Footer" />
